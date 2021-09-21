@@ -33,4 +33,4 @@ def sendsms():
     return response
 
 
-APP.run()
+APP.run(host='', port= '80')
