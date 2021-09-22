@@ -4,7 +4,6 @@ A Simple Flask app to send SMS notification from grafna using AWS sns.
 
 Set variables in balena dashboard for AWS keys.
 
-> Blockquote
 
 "SMS_AWS_SEC_KEY" and "SMS_AWS_ACCESS_KEY"
 
